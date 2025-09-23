@@ -1,4 +1,4 @@
-# 🏏 Real-Time Cricket Dashboard (Python + Streamlit)
+# 🏏 Real-Time Cricket Updates & Database Integration (Python + Streamlit)
 A **Python + Streamlit** project that delivers real-time cricket updates, live scorecards, and player insights using the Cricbuzz API. This project also integrates with a **MySQL** to store and manage cricket data, such as players, squads, and key statistics.
 
 ## 🚀 Features
