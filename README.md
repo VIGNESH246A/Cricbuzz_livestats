@@ -1,4 +1,7 @@
 # 🏏 Cricbuzz LiveStats: Real-Time Cricket Insights & SQL-Based Analytics
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cricbuzzlivestats-app.streamlit.app/)
+
 A **Python + Streamlit** project that delivers real-time cricket updates, live scorecards, and player insights using the Cricbuzz API. This project also integrates with a **MySQL** to store and manage cricket data, such as players, squads, and key statistics.
 
 ## 🚀 Features
